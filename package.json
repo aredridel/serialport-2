@@ -1,11 +1,10 @@
 {
   "name": "serialport-2",
   "version": "1.0.0",
-  "description": "serialport-1 ============",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+  "author": "Aria Stewart <aredridel@dinhe.net>",
+  "license": "ISC",
+  "dependencies": {
+    "serialport": "^2.0.1"
+  }
 }
